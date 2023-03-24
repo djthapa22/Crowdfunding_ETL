@@ -21,3 +21,19 @@ Throughout this project, we further enhanced our dataframe creation skills by le
 
 * [Jupyter Notebook](https://github.com/djthapa22/Crowdfunding_ETL/blob/main/Starter_Files/ETL_Mini_Project_DJ_Thapa.ipynb)
 
+* <ins>Final Tables Below: </ins>
+ 
+  * Contacts
+  ![Contacts Table](https://github.com/djthapa22/Crowdfunding_ETL/blob/main/Starter_Files/SQL%20/Contacts%20Table.png)
+  
+  
+  * Category
+  ![Category Table](https://github.com/djthapa22/Crowdfunding_ETL/blob/main/Starter_Files/SQL%20/Category%20TABLE.png)
+  
+  
+  * Subcategory
+  ![Subcategory Table](https://github.com/djthapa22/Crowdfunding_ETL/blob/main/Starter_Files/SQL%20/Subcategory%20Table.png)
+  
+  
+  * Campaign 
+  ![Campaign Table](https://github.com/djthapa22/Crowdfunding_ETL/blob/main/Starter_Files/SQL%20/Campaign%20Table.png)
